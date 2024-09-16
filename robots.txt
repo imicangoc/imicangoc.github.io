@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://imicangoc.github.io/sitemap.html.gz
+Sitemap: https://imicangoc.github.io/app/sitemap.html.gz
+Sitemap: https://imicangoc.github.io/assets/sitemap.html.gz
+Sitemap: https://imicangoc.github.io/css/sitemap.html.gz
+Sitemap: https://imicangoc.github.io/includes/sitemap.html.gz
+Sitemap: https://imicangoc.github.io/item/sitemap.html.gz
+Sitemap: https://imicangoc.github.io/src/sitemap.html.gz
